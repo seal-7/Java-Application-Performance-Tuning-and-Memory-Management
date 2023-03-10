@@ -188,4 +188,14 @@
 * https://stackoverflow.com/questions/61552078/resilience4j-bulkhead-thread-behaviour
 * https://www.baeldung.com/netty
 * https://dzone.com/articles/thread-local-allocation-buffers
-* 
+* https://blog.gceasy.io/2020/06/02/simple-effective-g1-gc-tuning-tips/
+* https://filia-aleks.medium.com/microservice-performance-battle-spring-mvc-vs-webflux-80d39fd81bf0
+
+
+
+* Scale up redis
+* Reduce pod count from 66 -> 55
+* Reduce the heap size and overall memory from 6GB to 4GB
+* Reduced DDS pods from 30 to 7
+* Using Ambassador instead of ALB
+
